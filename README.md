@@ -7,8 +7,8 @@ This is a summary project that simulates how MacOS works.
 To install the project, clone the repository:
 
 ```bash
-git clone https://github.com/chinakkk/curcon-telegram.git
-cd curcon-telegram
+git clone https://github.com/chinakkk/mac-cv.git
+cd mac-cv
 ```
 
 Then install dependencies and start the project:
