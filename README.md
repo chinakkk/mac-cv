@@ -1,4 +1,4 @@
-# Curcon-telegram
+# Web MacOS
 
 This is a summary project that simulates how MacOS works.
 
